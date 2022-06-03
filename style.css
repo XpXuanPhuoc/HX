@@ -1,0 +1,141 @@
+body {
+  color: #ffffff;
+  font-family: Lato, sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+.global_container_ {
+  float: none;
+  height: 720px;
+  margin: 0 auto;
+  min-height: 720px;
+  position: relative;
+  width: 1280px;
+  background: #9e003a;
+}
+.place-your-image-here-double-click-to-edit {
+  left: 50%;
+  position: absolute;
+  top: 0;
+  margin-left: -43px;
+}
+.place-your-image-here-double-click-to-edit-2 {
+  left: 50%;
+  position: absolute;
+  top: 570px;
+  margin-left: -377px;
+}
+.place-your-design-here-double-click-to-edit-holder {
+  left: 50%;
+  margin: 0 0 0 -597px;
+  min-height: 47px;
+  position: absolute;
+  top: 376px;
+  width: 188px;
+  background: url(images/place_your_design_here_do.png) no-repeat;
+  color: #9e003a;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.519256em;
+  font-weight: bold;
+  line-height: 47px;
+  text-align: center;
+}
+.place-your-design-here-double-click-to-edit-holder-2 {
+  left: 50%;
+  padding: 12px 0;
+  position: absolute;
+  top: 534px;
+  width: 37px;
+  background: url(images/place_your_design_here_do_2.png) no-repeat;
+  margin-left: -79px;
+}
+.place-your-design-here-double-click-to-edit {
+  display: block;
+  margin: 0 auto;
+}
+.place-your-design-here-double-click-to-edit-holder-3 {
+  left: 50%;
+  padding: 12px 0;
+  position: absolute;
+  top: 497px;
+  width: 38px;
+  background: url(images/place_your_design_here_do_3.png) no-repeat;
+  margin-left: -116px;
+}
+.place-your-design-here-double-click-to-edit-2 {
+  display: block;
+  margin: 0 auto;
+}
+.body-text {
+  left: 50%;
+  position: absolute;
+  top: 480px;
+  font-size: 1.021075em;
+  line-height: 1.2;
+  margin-left: -595px;
+}
+.subtitle {
+  left: 50%;
+  position: absolute;
+  top: 455px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.177906em;
+  font-weight: bold;
+  line-height: 22px;
+  margin-left: -598px;
+}
+.subtitle-2 {
+  left: 50%;
+  position: absolute;
+  top: 25px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.488328em;
+  font-weight: bold;
+  line-height: 28px;
+  margin-left: -308px;
+}
+.title {
+  left: 50%;
+  position: absolute;
+  top: 127px;
+  font-family: DINosaur, serif;
+  font-size: 3.15em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-left: -597px;
+}
+.twitter {
+  color: #ffffff;
+  left: 50%;
+  position: absolute;
+  top: 633px;
+  margin-left: -468px;
+}
+.instagram {
+  left: 50%;
+  position: absolute;
+  top: 633px;
+  margin-left: -502px;
+}
+.tumblr {
+  left: 50%;
+  position: absolute;
+  top: 633px;
+  margin-left: -538px;
+}
+.facebook {
+  color: aqua;
+  left: 50%;
+  position: absolute;
+  top: 633px;
+  margin-left: -572px;
+}
+.place-your-logo-here-double-click-to-edit {
+  left: 50%;
+  position: absolute;
+  top: 42px;
+  margin-left: -596px;
+}
